@@ -1,5 +1,1 @@
-this is my frist commit!
-
-second edit.
-
-third edit.
+git是很好一个工具使用，可以执行liunx命令，有git环境后windows系统就可以进行shell命令操作，就可以添加其他liunx辅助软件进行执行，git也代码库管理工具，无论是上传，下载代码都可以使用git的环境，起到很好应用效果。
