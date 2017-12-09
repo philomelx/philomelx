@@ -1,0 +1,8 @@
+diff a/student.txt b/student.txt	(rejected hunks)
+@@ -1 +0,3 @@
+-在github新增 student.txt
+\ No newline at end of file
++﻿在github新增 student.txt
++
++本地修改：测试回退操作
+\ No newline at end of file
